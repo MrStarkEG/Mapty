@@ -28,3 +28,8 @@ If not, feel safe to contact me at [@MrStarkEG](https://t.me/MrStarkEG) on [Tele
 
 ## License
 Be sure this project is based on [Jonas Schmedtmann](https://github.com/jonasschmedtmann)'s Mapty project.
+
+## Future Updates
+- You will be able to edit your previously created workouts
+- You can delete any workout
+- And there is more to discover soon!
